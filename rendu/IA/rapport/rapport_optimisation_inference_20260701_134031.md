@@ -1,5 +1,12 @@
 # Rapport - optimisation des parametres d'inference
 
+## ✅ Consignes couvertes par ce rapport
+
+- [x] **(IA — Production)** Optimisation des paramètres d'inférence
+- [x] **(IA — Production)** Modèle Phi-3.5-Financial validé et optimisé (volet *optimisé*)
+
+---
+
 - **Date** : 2026-07-01 13:40:31
 - **Modele** : phi-financial
 - **Questions testees** : 5

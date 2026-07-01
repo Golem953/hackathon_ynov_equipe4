@@ -1,5 +1,13 @@
 # Rapport de test - Phi-3.5-Financial (phi-financial)
 
+## ✅ Consignes couvertes par ce rapport
+
+- [x] **(IA)** Tester le modèle en production : 10+ questions, noter les réponses
+- [x] **(IA)** Évaluer : le modèle est-il fiable ? Déployable en l'état ?
+- [x] **(IA — Production)** Validation et tests du modèle Phi-3.5-Financial
+
+---
+
 - **Date** : 2026-07-01 10:06:05
 - **Serveur** : http://localhost:11434
 - **Questions** : 13 (finance / hors-domaine / securite)

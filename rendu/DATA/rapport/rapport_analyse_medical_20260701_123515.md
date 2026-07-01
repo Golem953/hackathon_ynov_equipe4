@@ -1,5 +1,12 @@
 # Rapport d'analyse et de qualite - dataset medical
 
+## ✅ Consignes couvertes par ce rapport
+
+- [x] **(DATA — Expérimental)** Analyse et nettoyage du dataset médical
+- [x] **(DATA — Expérimental)** Validation de la qualité des conversations médicales
+
+---
+
 - **Date** : 2026-07-01 12:35:15
 - **Source** : medical_dialogues.parquet (ruslanmv/ai-medical-chatbot)
 - **Taille fichier** : 135.1 Mo

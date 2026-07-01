@@ -1,5 +1,12 @@
 # Rapport de preparation - dataset medical
 
+## ✅ Consignes couvertes par ce rapport
+
+- [x] **(DATA)** Préparer le dataset médical pour l'équipe IA
+- [x] **(DATA — Expérimental)** Préparation des données pour le fine-tuning LoRA
+
+---
+
 - **Date** : 2026-07-01 10:59:07
 - **Source** : ../../datasets/medical_dialogues.parquet
 - **Modele cible** : Microsoft Phi-3.5 Instruct

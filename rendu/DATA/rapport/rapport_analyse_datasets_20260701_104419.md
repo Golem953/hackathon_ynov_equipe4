@@ -1,5 +1,15 @@
 # Rapport d'analyse des datasets herites
 
+## ✅ Consignes couvertes par ce rapport
+
+- [x] **(DATA)** Analyser les datasets hérités — formats, volume, anomalies
+- [x] **(DATA)** Identifier ce qui est utilisable et ce qui ne l'est pas
+- [x] **(DATA — Production)** Validation des données d'entrée pour Phi-3.5-Financial
+- [x] **(DATA — Production)** Tests de qualité des conversations
+- [~] **(DATA)** Écrire un script Python d'analyse et de nettoyage (volet *analyse*)
+
+---
+
 - **Date** : 2026-07-01 10:44:19
 - **Fichiers analyses** : 2
 

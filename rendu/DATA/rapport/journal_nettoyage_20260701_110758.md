@@ -1,5 +1,12 @@
 # Journal d'audit - nettoyage des datasets
 
+## ✅ Consignes couvertes par ce rapport
+
+- [x] **(DATA)** Écrire un script Python d'analyse et de nettoyage (volet *nettoyage*)
+- [x] **(DATA)** Identifier ce qui est utilisable et ce qui ne l'est pas (mise en œuvre)
+
+---
+
 - **Date** : 2026-07-01 11:07:58
 - **Filtrage hors-domaine** : actif
 
