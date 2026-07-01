@@ -1,2 +1,4 @@
 datasets/dataset_v0.json
+datasets/medical_dialogues.parquet
+rendu/DATA/__pycache__/
 .DS_Store

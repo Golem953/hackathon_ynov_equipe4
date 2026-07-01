@@ -1,0 +1,5 @@
+Lien du notebook Colab de fine-tuning du modèle médical (Phi-3.5 + QLoRA) :
+https://colab.research.google.com/drive/16J94jawaaRh0dTtVxjjSQPc9QD2vgRfX?usp=sharing
+
+Modèle entraîné (adapter LoRA) : phi35_medical_lora.zip (dans ce dossier)
+Métriques d'entraînement : metrics.json (inclus dans le zip)
