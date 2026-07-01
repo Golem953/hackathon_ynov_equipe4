@@ -13,15 +13,14 @@
 | Livrable | Fichier | Statut |
 |----------|---------|--------|
 | Modèle Phi-3.5-Financial **validé et optimisé** | `Modelfile_phi_financial_optimise` + `rapport_test_modele_*.md` + `rapport_optimisation_inference_*.md` | ✅ |
-| Modèle médical expérimental **fine-tuné (LoRA)** | `phi35_medical_lora.zip` (adapter + `metrics.json`) | ❌ **MANQUANT** |
+| Modèle médical expérimental **fine-tuné (LoRA)** | `phi35_medical_lora.zip` (adapter + `metrics.json`) | ⏳ **à déposer ici** |
+| Lien Colab | `lien_colab.txt` | ✅ |
 
-## ❌ Ce qui manque
+## Modèle médical fine-tuné
 
-Le **modèle médical fine-tuné** (`phi35_medical_lora.zip`) n'est pas ici : il est produit **sur Google Colab** (GPU) et doit être **téléchargé** à la fin du notebook `finetune_medical_phi35.ipynb` (cellule « Export »).
+Le **lien Colab** est fourni dans `lien_colab.txt`.
 
-À récupérer depuis Colab et à déposer dans ce dossier :
-- `phi35_medical_lora.zip` — l'adapter LoRA entraîné,
-- `metrics.json` — train loss / val loss / epochs,
-- le **lien Colab** partagé (à ajouter ici, ex. dans un `lien_colab.txt`).
+Il reste à **déposer l'archive dans ce dossier** :
+- **`phi35_medical_lora.zip`** → placer dans `rendu/IA/Livrable/` (adapter LoRA + `metrics.json` inclus).
 
-> Le notebook est fourni ici comme livrable du *fine-tuning* ; seul le résultat entraîné (poids + métriques) reste à rapatrier de Colab.
+> Les fichiers `.zip` sont suivis via Git LFS (voir `.gitattributes`).
