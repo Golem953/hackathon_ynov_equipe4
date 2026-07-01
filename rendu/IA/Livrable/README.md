@@ -13,14 +13,12 @@
 | Livrable | Fichier | Statut |
 |----------|---------|--------|
 | Modèle Phi-3.5-Financial **validé et optimisé** | `Modelfile_phi_financial_optimise` + `rapport_test_modele_*.md` + `rapport_optimisation_inference_*.md` | ✅ |
-| Modèle médical expérimental **fine-tuné (LoRA)** | `phi35_medical_lora.zip` (adapter + `metrics.json`) | ⏳ **à déposer ici** |
+| Modèle médical expérimental **fine-tuné (LoRA)** | `phi35_medical_lora.zip` (adapter + `metrics.json`) | ✅ |
 | Lien Colab | `lien_colab.txt` | ✅ |
 
 ## Modèle médical fine-tuné
 
-Le **lien Colab** est fourni dans `lien_colab.txt`.
-
-Il reste à **déposer l'archive dans ce dossier** :
-- **`phi35_medical_lora.zip`** → placer dans `rendu/IA/Livrable/` (adapter LoRA + `metrics.json` inclus).
+- **Adapter LoRA entraîné** : `phi35_medical_lora.zip` (contient l'adapter + `metrics.json`).
+- **Lien Colab** : voir `lien_colab.txt`.
 
 > Les fichiers `.zip` sont suivis via Git LFS (voir `.gitattributes`).
